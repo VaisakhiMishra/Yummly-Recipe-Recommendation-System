@@ -1,5 +1,6 @@
 # Yummly-Recipe-Recommendation-System
 Yummly Similar Recipe And Similar Ingredient Recommender
+Team - Vaibhavi Rangarajan, Sneha Vasanth, Vaisakhi Mishra, Venessa Lobo
 
 Research Questions
 
